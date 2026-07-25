@@ -1,2 +1,8 @@
 # Git-Practice-Demo
-this is the Demo for Git & Github class.
+This is the Demo for Git & Github class.
+
+# Teacher:
+Shradha Khapra
+
+# Student
+Sigma Student
