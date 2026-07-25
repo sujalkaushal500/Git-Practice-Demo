@@ -1,2 +1,2 @@
 # Git-Practice-Demo
-this is the pracice session.
+this is the Demo for Git & Github class.
